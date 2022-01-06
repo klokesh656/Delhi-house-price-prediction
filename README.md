@@ -1,1 +1,1 @@
-# Delhi-house-price-prediction
+Self guided DS projects 
